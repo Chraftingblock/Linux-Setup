@@ -4,9 +4,10 @@ set -e
 
 #############################################################################
 #                                                                           #
-# Project Software installer for Linux                                      #
+#   Linux Base Setup Script for Debian and Ubuntu                           #
 #                                                                           #
-# Copyright (C) 2022 - 2022, Chraftingblock, <chraftingblock@gmail.com>     #
+#                                                                           #
+#   Copyright (C) 2022 - 2022, Chraftingblock, <chraftingblock@gmail.com>   #
 #                                                                           #
 #   This program is free software: you can redistribute it and/or modify    #
 #   it under the terms of the GNU General Public License as published by    #
@@ -21,7 +22,7 @@ set -e
 #   You should have received a copy of the GNU General Public License       #
 #   along with this program.  If not, see <https://www.gnu.org/licenses/>.  #
 #                                                                           #
-# https://Chraftingblock.github.io/Linux-Setup/                             #
+#   https://Chraftingblock.github.io/Linux-Setup/                           #
 #                                                                           #
 #############################################################################
 
