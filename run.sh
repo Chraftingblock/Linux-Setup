@@ -26,6 +26,24 @@ set -e
 #############################################################################
 
 
+#################################
+###### General Information ######
+#################################
+
+SCRIPT_VERSION="v0.0.1"
+
+
+output "Linux Base Setup script @ $SCRIPT_VERSION"
+output
+output "Copyright (C) 2022 - 2022, Chraftingblock, <chraftingblock@gmail.com>"
+output "https://Chraftingblock.github.io/Linux-Setup/"
+output
+output "Sponsoring/Donations: None"
+output "This script is not associated with the official Linux Project."
+
+output
+
+
 
 #################################
 ######## General checks #########
