@@ -4,7 +4,7 @@ set -e
 
 #############################################################################
 #                                                                           #
-#   Linux Base Setup Script for Debian and Ubuntu                           #
+#   Linux Base Setup Script for Debian and Ubuntu (Currently)               #
 #                                                                           #
 #                                                                           #
 #   Copyright (C) 2022 - 2022, Chraftingblock, <chraftingblock@gmail.com>   #
@@ -49,3 +49,56 @@ output
 #################################
 ######## General checks #########
 #################################
+
+Willst du die Basiscs (git Curl, ...)
+
+wie sieht es aus mit htop, neofetch, ...
+
+Predefined Software (YES, NO)
+
+
+
+
+
+
+#################################
+######## Basics Install #########
+#################################
+
+
+
+
+apt install software-properties-common git curl
+
+
+#################################
+####### Advanced Install ########
+#################################
+
+
+
+apt install software-properties-common git curl htop neofetch
+
+
+
+
+
+
+
+
+
+#################################
+#### Custom Software Install ####
+#################################
+
+If true = Predifined Software
+
+Then 
+
+for Pterodactyl
+    official
+        Panel
+        Wing
+    homebrew (1.9.2)
+        Panel
+        Wing
